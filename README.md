@@ -1,0 +1,2 @@
+# thunderAutoManager
+在迅雷关闭时自动清除后台吸血进程和服务
